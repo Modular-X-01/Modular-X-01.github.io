@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://modular-x-01.github.io</id>
     <title>猫丢了-X的小破站</title>
-    <updated>2021-03-03T03:41:05.469Z</updated>
+    <updated>2021-03-03T03:50:08.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://modular-x-01.github.io"/>
     <link rel="self" href="https://modular-x-01.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://modular-x-01.github.io/images/avatar.png</logo>
     <icon>https://modular-x-01.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 猫丢了-X的小破站</rights>
+    <entry>
+        <title type="html"><![CDATA[开始]]></title>
+        <id>https://modular-x-01.github.io/post/kai-shi/</id>
+        <link href="https://modular-x-01.github.io/post/kai-shi/">
+        </link>
+        <updated>2021-03-03T03:43:00.000Z</updated>
+        <content type="html"><![CDATA[<p>以后会在这里更新一些看到的好玩的物件，也会分享一些自己设计的电子产品，记录下来自己的点点滴滴。<br>
+<img src="https://modular-x-01.github.io/post-images/1614743251197.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
